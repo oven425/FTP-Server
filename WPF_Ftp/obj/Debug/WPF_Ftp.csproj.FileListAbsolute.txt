@@ -1,0 +1,14 @@
+C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\obj\Debug\WPF_Ftp.csprojAssemblyReference.cache
+C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\obj\Debug\MainWindow.g.cs
+C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\obj\Debug\App.g.cs
+C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\obj\Debug\WPF_Ftp_MarkupCompile.cache
+C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\obj\Debug\WPF_Ftp_MarkupCompile.lref
+C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\bin\Debug\WPF_Ftp.exe
+C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\bin\Debug\WPF_Ftp.pdb
+C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\obj\Debug\MainWindow.baml
+C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\obj\Debug\WPF_Ftp.g.resources
+C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\obj\Debug\WPF_Ftp.Properties.Resources.resources
+C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\obj\Debug\WPF_Ftp.csproj.GenerateResource.cache
+C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\obj\Debug\WPF_Ftp.csproj.CoreCompileInputs.cache
+C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\obj\Debug\WPF_Ftp.exe
+C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\obj\Debug\WPF_Ftp.pdb
