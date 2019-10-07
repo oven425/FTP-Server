@@ -12,3 +12,4 @@ C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\obj\Debug\WPF_Ftp.csproj.GenerateR
 C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\obj\Debug\WPF_Ftp.csproj.CoreCompileInputs.cache
 C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\obj\Debug\WPF_Ftp.exe
 C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\obj\Debug\WPF_Ftp.pdb
+C:\Users\ben_hsu\source\repos\WPF_Ftp\WPF_Ftp\bin\Debug\WPF_Ftp.exe.config
